@@ -10,5 +10,5 @@ Requirements:
 - python
 
 Implementation:
-1. Open command prompt and type: **python main.py**
+1. Open command prompt and type: **python train.py**
 2. Install the required libraries and run.
